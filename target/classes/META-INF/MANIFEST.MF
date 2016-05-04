@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: jozijug
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: com.lodewyk
+Build-Jdk: 1.7.0_95
+Built-By: lodewyk
+Created-By: Maven Integration for Eclipse
+
