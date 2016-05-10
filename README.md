@@ -52,4 +52,7 @@ The server should start up and you should see the following in the terminal foll
 ```
 You can now access the Swagger UI console at the following address through a web browser:
 
-http://<IP_address>:9001/swagger-ui.html
+http://IP_ADDRESS:9001/swagger-ui.html
+
+## Notes on the LED circuit
+This code assumes that an LED is connected to the Pi4J pin ```GPIO_001```. Refer to the Pi4J  [usage](http://pi4j.com/usage.html) page for more information on pin numbering schemes for your Pi model.
