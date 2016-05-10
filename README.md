@@ -55,4 +55,4 @@ You can now access the Swagger UI console at the following address through a web
 http://IP_ADDRESS:9001/swagger-ui.html
 
 ## Notes on the LED circuit
-This code assumes that an LED is connected to the Pi4J pin ```GPIO_001```. Refer to the Pi4J  [usage](http://pi4j.com/usage.html) page for more information on pin numbering schemes for your Pi model.
+This code assumes that an LED is connected to the Pi4J pin ```GPIO_001```. Refer to the Pi4J  [pin numbering](http://pi4j.com/usage.html#Pin_Numbering) section in the usage page for more information on pin numbering schemes for your Pi model.
