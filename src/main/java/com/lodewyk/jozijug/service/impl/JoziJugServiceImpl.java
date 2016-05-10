@@ -11,7 +11,7 @@ import com.pi4j.io.gpio.RaspiPin;
 public class JoziJugServiceImpl implements JoziJugService {
 	
 	private static final GpioPinDigitalOutput LED_PIN = GpioFactory.getInstance()
-			.provisionDigitalOutputPin(RaspiPin.GPIO_18, "LED pin", PinState.LOW);
+			.provisionDigitalOutputPin(RaspiPin.GPIO_01, "LED pin", PinState.LOW);
 
 	
 	public void toggleLed() {
