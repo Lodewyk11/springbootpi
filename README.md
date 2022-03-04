@@ -1,5 +1,5 @@
 # springbootpi
-This project uses Spring boot with Springfox Swagger to expose a service that toggles an LED on the an Raspberry Pi.
+This project uses Spring boot with Springfox Swagger to expose a service that toggles an LED on a Raspberry Pi.
 
 This project will NOT run on a x86 architecture machine. Supported platforms include:
  - Raspberry Pi
